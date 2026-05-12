@@ -50,6 +50,3 @@ custom-msp430-pcb/
 ├── schematics/       # Schematic source and exported PDFs
 ├── pcb/              # PCB layout files and renders
 ├── gerbers/          # Manufacturing Gerber files
-├── simulations/      # LTspice simulations
-├── images/           # Board photos and screenshots
-└── docs/             # Additional documentation
